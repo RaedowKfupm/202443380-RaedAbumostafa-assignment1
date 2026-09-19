@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 1280" role="img" aria-labelledby="title desc">
+  <title id="title">WiFi Human Activity Detection project poster</title>
+  <desc id="desc">An editorial project poster featuring a research presentation scene with technical overlays.</desc>
+  <rect width="960" height="1280" fill="#f1eadb"/>
+  <rect x="56" y="52" width="848" height="1176" fill="#191612"/>
+  <rect x="96" y="92" width="768" height="1098" fill="#efe4d4"/>
+  <rect x="140" y="156" width="328" height="214" fill="#d7c5a6"/>
+  <path d="M175 260c36-48 88-72 156-72 77 0 146 34 188 95l-63 34c-30-41-73-60-126-60-40 0-76 14-111 48l-44-45z" fill="#c75635"/>
+  <rect x="530" y="176" width="258" height="18" fill="#1d1a17"/>
+  <rect x="530" y="216" width="222" height="18" fill="#1d1a17" opacity="0.8"/>
+  <rect x="530" y="256" width="200" height="18" fill="#1d1a17" opacity="0.6"/>
+  <rect x="140" y="430" width="680" height="320" fill="#f7f3ee" stroke="#1d1a17" stroke-width="4"/>
+  <path d="M178 619c84-105 201-163 349-163 143 0 267 52 350 158l-70 59c-77-75-150-105-280-105-105 0-190 31-261 95l-88-44z" fill="#d7c5a6"/>
+  <circle cx="275" cy="606" r="46" fill="#c75635" opacity="0.9"/>
+  <circle cx="502" cy="545" r="64" fill="#1d1a17" opacity="0.7"/>
+  <circle cx="679" cy="596" r="51" fill="#c75635" opacity="0.7"/>
+  <path d="M178 720h578" stroke="#1d1a17" stroke-width="7" stroke-linecap="round"/>
+  <rect x="140" y="812" width="318" height="280" fill="#1d1a17"/>
+  <rect x="502" y="812" width="318" height="280" fill="#c75635"/>
+  <text x="188" y="893" font-size="44" fill="#fffdf8" font-family="Arial, sans-serif" font-weight="700">RF</text>
+  <text x="188" y="943" font-size="44" fill="#fffdf8" font-family="Arial, sans-serif" font-weight="700">DIFFUSION</text>
+  <text x="188" y="995" font-size="44" fill="#fffdf8" font-family="Arial, sans-serif" font-weight="700">MODEL</text>
+  <text x="540" y="900" font-size="38" fill="#fffdf8" font-family="Arial, sans-serif" font-weight="700">ACTIVITY</text>
+  <text x="540" y="952" font-size="38" fill="#fffdf8" font-family="Arial, sans-serif" font-weight="700">RECOGNITION</text>
+  <text x="540" y="1003" font-size="38" fill="#fffdf8" font-family="Arial, sans-serif" font-weight="700">SYNTHETIC</text>
+  <text x="540" y="1054" font-size="38" fill="#fffdf8" font-family="Arial, sans-serif" font-weight="700">SIGNALS</text>
+  <rect x="140" y="1114" width="680" height="24" fill="#1d1a17"/>
+</svg>

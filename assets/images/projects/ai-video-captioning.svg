@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-labelledby="title desc">
+  <title id="title">AI video captioning concept illustration</title>
+  <desc id="desc">A camera viewport showing a scene and generated caption text in a simple AI interface.</desc>
+  <rect width="800" height="1000" fill="#f3eee3"/>
+  <rect x="70" y="90" width="660" height="620" rx="18" fill="#1d1a17"/>
+  <rect x="108" y="130" width="584" height="540" rx="12" fill="#d8d2c4"/>
+  <path d="M145 600c74-108 180-166 294-166 143 0 248 82 290 166H145z" fill="#c75635" opacity="0.86"/>
+  <rect x="205" y="255" width="180" height="120" rx="10" fill="#f6efe5"/>
+  <rect x="415" y="265" width="150" height="92" rx="8" fill="#f6efe5" opacity="0.88"/>
+  <circle cx="348" cy="372" r="36" fill="#f6efe5"/>
+  <rect x="170" y="695" width="460" height="120" rx="18" fill="#fffdf8" stroke="#1d1a17" stroke-width="3"/>
+  <text x="205" y="755" font-size="34" fill="#1d1a17" font-family="Arial, sans-serif" font-weight="700">A person walks across</text>
+  <text x="205" y="795" font-size="34" fill="#1d1a17" font-family="Arial, sans-serif" font-weight="700">a bright urban street.</text>
+  <rect x="580" y="725" width="106" height="56" rx="10" fill="#c75635"/>
+  <text x="606" y="763" font-size="26" fill="#fffdf8" font-family="Arial, sans-serif" font-weight="700">CAPTION</text>
+</svg>

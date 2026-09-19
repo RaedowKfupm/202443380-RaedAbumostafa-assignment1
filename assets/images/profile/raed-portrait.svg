@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 853" role="img" aria-labelledby="title desc">
+  <title id="title">Raed portrait illustration</title>
+  <desc id="desc">A stylized portrait of Raed Abumostafa standing in a warm editorial palette.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#efe7d8"/>
+      <stop offset="100%" stop-color="#d7c5a6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="853" fill="url(#bg)"/>
+  <circle cx="948" cy="151" r="122" fill="#c75635" opacity="0.14"/>
+  <rect x="100" y="100" width="1080" height="653" fill="#f6f1e8" stroke="#1d1a17" stroke-width="3"/>
+  <g transform="translate(160 110)">
+    <rect x="330" y="94" width="280" height="430" rx="28" fill="#d0b18c"/>
+    <path d="M420 117c-94 10-160 94-160 198 0 35 7 67 22 93l18 38 66-18 39-123 55 35 48-15 33-67 49-31-15-68c-32-34-79-62-155-42z" fill="#2e2b2a"/>
+    <path d="M430 252c-45 0-81 52-81 117 0 53 24 83 57 99l58 28 72-6c35-7 53-35 53-91 0-54-28-110-80-120-18-4-42-27-79-27z" fill="#f1d3b5"/>
+    <path d="M506 261c56 15 101 64 103 122 1 52-35 102-82 110l-48-47 44-43 5-56-22-86z" fill="#c88b63" opacity="0.85"/>
+    <path d="M372 346c16 68 53 93 105 104 62 13 154 2 186-60 18-35 16-82 10-123l-34 4c-2 67-41 98-95 106-50 8-88-16-109-60l-63 29z" fill="#d4a175"/>
+    <path d="M352 293c28-56 81-92 150-95 83-3 154 54 181 136l-43 22c-33-46-76-71-123-68-37 2-82 23-102 64l-63-59z" fill="#d7c5a6" opacity="0.7"/>
+    <circle cx="445" cy="286" r="5" fill="#1d1a17"/>
+    <circle cx="515" cy="286" r="5" fill="#1d1a17"/>
+    <path d="M452 335c26 25 61 18 85 0" fill="none" stroke="#1d1a17" stroke-width="5" stroke-linecap="round"/>
+    <path d="M362 204c23-68 68-112 136-129 88-22 191 11 245 93l-79 29c-36-49-89-66-156-51-42 9-91 44-122 92l-24-34z" fill="#23201d"/>
+    <path d="M400 122l-55 97 25 21 26-58 50 52 34-39 52 65 35-31-28-108-139 1z" fill="#1d1a17"/>
+    <path d="M692 449c-16 18-30 46-34 76h-12c-7-20-20-39-51-56l40-95 57 75z" fill="#1d1a17"/>
+    <path d="M733 404l-53 86-79 68 24 51 83-42 88-99-63-64z" fill="#c75635" opacity="0.92"/>
+    <path d="M253 465l-66 166 73 14 50-129-57-51z" fill="#c75635" opacity="0.88"/>
+    <path d="M206 654l115 6 42-21 59 29 149-44 103 33 75-41 93 36 107-62 53 64-231 116-457-2-184-65-143-29z" fill="#1d1a17"/> 
+    <path d="M477 429h94v42h-94z" fill="#f3e4d0"/>
+    <path d="M512 444h246l78 54H447l65-54z" fill="#c75635" opacity="0.8"/>
+  </g>
+</svg>
