@@ -9,6 +9,7 @@ const navLinks = document.querySelector('.nav-links');
 const navAnchors = Array.from(document.querySelectorAll('.nav-links a'));
 const sections = Array.from(document.querySelectorAll('main section[id], header section[id]'));
 
+// Keep the mobile menu state synchronized with the button's accessibility state.
 if (navToggle && navLinks) {
   navToggle.addEventListener('click', () => {
     const isOpen = navLinks.classList.toggle('is-open');
@@ -43,6 +44,7 @@ const updateActiveLink = () => {
   });
 };
 
+// Highlight the section that is closest to the current reading position.
 if (navAnchors.length) {
   updateActiveLink();
   window.addEventListener('scroll', updateActiveLink, { passive: true });
@@ -65,6 +67,7 @@ const setFieldError = (fieldId, message) => {
 
 const isValidEmail = (email) => /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email);
 
+// Validate locally because this static portfolio has no message-delivery backend.
 if (form) {
   form.addEventListener('submit', (event) => {
     event.preventDefault();
