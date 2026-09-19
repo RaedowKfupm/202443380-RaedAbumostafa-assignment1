@@ -1,3 +1,4 @@
+/* Design tokens keep the palette, typography, spacing, and shadows consistent. */
 :root {
   --paper: #f2ede3;
   --paper-deep: #ddd0b8;
@@ -18,6 +19,7 @@
   --shadow: 0.75rem 0.75rem 0 var(--ink);
 }
 
+/* Use predictable sizing and remove browser defaults that affect the layout. */
 *,
 *::before,
 *::after {
@@ -101,6 +103,7 @@ button {
   transform: translateY(0);
 }
 
+/* Navigation stays visible while the page content scrolls beneath it. */
 .site-nav {
   position: relative;
   z-index: 40;
@@ -202,6 +205,7 @@ button {
   transform: translateY(-0.215rem) rotate(-45deg);
 }
 
+/* Hero layout balances the introduction with the profile image. */
 .hero {
   position: relative;
   overflow: hidden;
@@ -421,8 +425,10 @@ section {
   background: var(--ink);
 }
 
+/* Shared section rules establish the dark project and contact treatments. */
 .projects,
 .skills,
+/* Contact keeps the message beside the form on wide screens. */
 .contact {
   padding-block: var(--section-space);
 }
@@ -844,6 +850,7 @@ section {
   justify-self: end;
 }
 
+/* Collapse major multi-column sections before the mobile navigation breakpoint. */
 @media (max-width: 62rem) {
   .hero-grid {
     grid-template-columns: minmax(0, 0.9fr) minmax(22rem, 1.1fr);
