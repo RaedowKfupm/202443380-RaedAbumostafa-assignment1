@@ -683,12 +683,13 @@ section {
 
 .contact-grid {
   display: grid;
-  grid-template-columns: minmax(16rem, 0.75fr) minmax(0, 1.25fr);
+  grid-template-columns: minmax(0, 0.75fr) minmax(0, 1.25fr);
   gap: clamp(2.5rem, 8vw, 7rem);
   align-items: start;
 }
 
 .contact-copy {
+  min-width: 0;
   max-width: 40rem;
 }
 
@@ -697,8 +698,8 @@ section {
 }
 
 .contact-copy h2 {
-  max-width: 7.5ch;
-  font-size: clamp(3.2rem, 7vw, 6.3rem);
+  max-width: 100%;
+  font-size: clamp(2.8rem, 4.8vw, 5.2rem);
   line-height: 0.82;
   letter-spacing: -0.07em;
   word-break: normal;
