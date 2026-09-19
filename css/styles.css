@@ -688,17 +688,30 @@ section {
   align-items: start;
 }
 
+.contact-copy {
+  max-width: 40rem;
+}
+
 .contact .section-number {
   color: var(--ink);
 }
 
 .contact-copy h2 {
-  max-width: 10ch;
+  max-width: 7.5ch;
   font-size: clamp(3.2rem, 7vw, 6.3rem);
+  line-height: 0.82;
+  letter-spacing: -0.07em;
+  word-break: normal;
+  overflow-wrap: normal;
+  hyphens: none;
+}
+
+.contact-copy h2 span {
+  display: block;
 }
 
 .contact-copy > p:not(.section-number) {
-  max-width: 32rem;
+  max-width: 24rem;
   margin: 2rem 0 1.5rem;
 }
 
