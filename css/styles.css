@@ -514,6 +514,10 @@ section {
   transform: scale(1.025);
 }
 
+.project-card-wifi .project-media img {
+  object-position: 50% 18%;
+}
+
 .project-media-illustration img {
   object-fit: cover;
 }
